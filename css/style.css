@@ -1,0 +1,48 @@
+div.bb p{
+    color: palevioletred;
+}
+div.b h2{
+    color: red;
+}
+#block p{
+    color: aqua;
+}
+#block1 h2{
+    color: darkblue;
+}
+.bbb{
+    color: lightskyblue;
+}
+#block3 .bbb1{
+    color: violet;
+}
+p.bbb2{
+    color: hotpink;
+}
+#block p.bbb {
+    color: rgb(176, 211, 135);
+}
+.bbb, .xxx {
+    color: burlywood;
+}
+p.bbb, h2.xxx {
+    color: greenyellow;
+}
+#block p.bbb, #block p.xxx {
+    color: pink;
+}
+.fff {
+    color: rgb(131, 74, 172);
+}
+.fff p {
+    color: rgb(57, 81, 109);
+}
+p.fff {
+    color: rgb(32, 17, 17);
+}
+.fff .bbb {
+    color: rgb(131, 233, 131);
+}
+.fff h2.bbb {
+    color: rgb(77, 54, 45);
+}
